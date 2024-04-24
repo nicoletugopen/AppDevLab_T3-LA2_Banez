@@ -1,0 +1,27 @@
+
+.card{
+    margin : 50px;
+}
+.form-inline{
+    margin:0px,50px,0px,50px;
+
+
+}
+.fa-search{
+    margin:10px;
+}
+
+.navbar{
+    background-color: black;
+    color:white;
+}
+
+#search-field{
+ width: 400px;
+}
+
+
+/*  Checkout page CSS */
+/*.container {
+    max-width: 960px;
+  }
